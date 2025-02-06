@@ -19,6 +19,7 @@ All you have to do is customize the configuration to your liking.
   "TimeColor": "20:yellow, 10:red, 5:darkred",
   "ProgressBarColor": "20:yellow, 10:red, 5:darkred"
 }
+```
 
 ## Compile Yourself
 
