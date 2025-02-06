@@ -26,7 +26,7 @@ All you have to do is customize the configuration to your liking.
 Clone the project:
 
 ```bash
-git clone https://github.com/TangoCash/css-C4-Timer.git
+git clone https://github.com/TangoCash/cs2-C4-Timer.git
 ```
 
 Go to the project directory
